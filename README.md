@@ -21,7 +21,9 @@ OR
 see http://stackoverflow.com/questions/8032824/cant-install-ruby-under-lion-with-rvm-gcc-issues
 
 with Edit 3:   
-rvm install 1.9.3 --with-gcc=clang 
+rvm install 1.9.3 --with-gcc=clang
+
+    (clang vs GCC:  http://clang.llvm.org/comparison.html)
 
 OR
 
