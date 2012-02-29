@@ -12,8 +12,9 @@ X-Code 4.1 (previous version)
 
 OR
 
-X-Code 4.2 (current version) + GCC
-[GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer) which is kennethReitz github:
+[GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer) which is kennethReitz github
+
+(X-code 4.2 is optional as it does NOT include GCC)
 
 OR
 

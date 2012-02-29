@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d83aa00-d0c8-4679-9a9b-f3b72e36c72b" name="Default" comment="" />
+    <list default="true" id="1d83aa00-d0c8-4679-9a9b-f3b72e36c72b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="RailsonLaptop.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -189,7 +191,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="94" selection-start="310" selection-end="310" vertical-scroll-proportion="0.2669039">
+        <state line="16" column="51" selection-start="325" selection-end="325" vertical-scroll-proportion="0.12811388">
           <folding />
         </state>
       </provider>
