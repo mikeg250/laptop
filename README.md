@@ -13,17 +13,20 @@ X-Code 4.1 (previous version)
 OR
 
 X-Code 4.2 (current version) + GCC
+
 Go to kennethReitz link for GCC: [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer). 
 
 OR
 
 see http://stackoverflow.com/questions/8032824/cant-install-ruby-under-lion-with-rvm-gcc-issues
+
 with Edit 3:   
 rvm install 1.9.3 --with-gcc=clang 
 
 OR
-bash-3.2$ rvm get head
-bash-3.2$ CC=/usr/bin/gcc-4.2 rvm install 1.9.3 --enable-shared
+$ rvm get head
+
+$ CC=/usr/bin/gcc-4.2 rvm install 1.9.3 --enable-shared
 
 
 Then, run this one-liner:
