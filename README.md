@@ -16,20 +16,17 @@ OR
 
 (X-code 4.2 is optional as it does NOT include GCC)
 
-OR
-
-see http://stackoverflow.com/questions/8032824/cant-install-ruby-under-lion-with-rvm-gcc-issues
-
-with Edit 3:
+OR using Edit 3 from http://stackoverflow.com/questions/8032824/cant-install-ruby-under-lion-with-rvm-gcc-issues
 
     $ rvm install 1.9.3 --with-gcc=clang
 
 Clang vs GCC:  http://clang.llvm.org/comparison.html
 
-OR
+OR from same post:
 
     $ rvm get head
     $ CC=/usr/bin/gcc-4.2 rvm install 1.9.3 --enable-shared
+
 
 
 Then, run this one-liner:
