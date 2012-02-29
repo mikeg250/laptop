@@ -33,7 +33,9 @@ from same post:
 
 
 
-Then, run this one-liner:
+THEN,
+
+run this one-liner:
 
     bash < <(curl -s https://raw.github.com/mikeg250/laptop/master/mac)
 
