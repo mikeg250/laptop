@@ -13,8 +13,7 @@ X-Code 4.1 (previous version)
 OR
 
 X-Code 4.2 (current version) + GCC
-
-Go to kennethReitz link for GCC: [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer). 
+[GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer) which is kennethReitz github:
 
 OR
 
@@ -24,6 +23,7 @@ with Edit 3:
 rvm install 1.9.3 --with-gcc=clang 
 
 OR
+
 $ rvm get head
 
 $ CC=/usr/bin/gcc-4.2 rvm install 1.9.3 --enable-shared
